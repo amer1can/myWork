@@ -98,7 +98,7 @@
 // reverseInt(8900); // 98
 // var reverse = '';         //////почему-то создает не пустую строку, а undefined
 // const reverseInt = num => {
-  
+
 //   let numStr = String(num);
 //   for (let i = numStr.length; i >= 0; i -= 1 ) {
 //     reverse += numStr[i];
@@ -275,7 +275,7 @@
 //   this.total = function() {
 //    return this.name + " = " + this.sales;
 //      }
-    
+
 // }
 // const john = new Manager("John", 5);
 // const mary = new Manager("Mary", 10);
